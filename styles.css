@@ -19,7 +19,7 @@ header{
     margin-left: 1%;
     margin-right: 1%; 
 }
-.latest{
+.latest-news-section{
  text-align:center;
     vertical-align: top;
     background:white;
@@ -36,7 +36,7 @@ header{
     padding: 10px ;
     display: inline-block;
 }
-.pic{
+.pictorial-news-section{
  text-align:center;
     background:white;
     border-radius: 20px;
@@ -47,11 +47,11 @@ header{
 	p{  
     padding-left: 15px ;   
 }
-	header{
+	h3{
     padding-bottom:20px;
     text-align: center;
 }
-	img{
+	.img{
     width:100%;
     padding: 5px;
 }
